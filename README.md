@@ -30,5 +30,4 @@ Lightweight and simple (HTML + CSS only).
 
 🚀 Live Demo
 
-Click here to view :- (https://AYUSHI-JAIN878.github.io/netflix-clone-project/)
-
+Click here to view[(https://AYUSHI-JAIN878.github.io/netflix-clone-project/)]
